@@ -5,7 +5,7 @@ var astro = require('astronomia');
 var nunjucks = require('nunjucks');
 
 //step 1
-//include the required route here
+//include the required route to sunrise.js here
 
 
 
