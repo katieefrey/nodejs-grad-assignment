@@ -23,7 +23,7 @@ router.get('/', (req,res,next)=>{
 	
 	//step 3
 	//render the webpage sunrise.html
-	//be sure to include the following varibles
+	//be sure to pass the following varibles
 	// sunrise: sunrise
 	// year: currentDate["year"]
 	// month: currentDate["month"]
