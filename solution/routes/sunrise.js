@@ -22,7 +22,7 @@ router.get('/', (req,res,next)=>{
 	var sunrise = timeonly.replace(utc,edt);
 	
 	//step 3
-	//render the webpage sunrise.html
+	//render the view sunrise.html
 	//be sure to pass the following varibles
 	// sunrise: sunrise
 	// year: currentDate["year"]
