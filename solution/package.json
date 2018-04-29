@@ -1,7 +1,7 @@
 {
   "name": "solution",
   "version": "1.0.0",
-  "description": "The description of this assignment can be found in Canvas at [Assignment #3](https://canvas.harvard.edu/courses/35096/assignments/200749) (Spring 2018)",
+  "description": "",
   "main": "app.js",
   "dependencies": {
     "astronomia": "^1.3.8",
